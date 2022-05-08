@@ -1,1 +1,10 @@
+In this project, five supervised learning algorithms are implemented and tested on 2 different datasets. The training and testing error rates I obtained running the various learning algorithms on the datasets, I included graphs that show performance on both training and test data as a function of training size.
+Many questions are answered in this project, such as why I did get such results? Comparison between the different algorithms. What parameters can be tuned to improve the performance?
 
+Analysis.pdf file answers the above questions
+
+All the codes are in IPYNB format, so you will need Jupyter Notebook to run my codes.
+
+You will need to change the address for the data files directory in the code to the address where you save the data files.
+
+The Digit Recognizer dataset is heavy dataset(42000 samples), it might take long time to process the data and get the results depends on how fast is your machine.
