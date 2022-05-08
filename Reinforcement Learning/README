@@ -1,1 +1,13 @@
+In this section, I solve two Markov Decision Processes (MDP) using Value Iteration, Policy Iteration and Q-Learning reinforcement learning algorithms. I performed my experiments on small and large number of states for each MDP problem.
+I discussed many aspects and answered many questions in this experiment, such as how many iteration each algorithm take to converge? which one converges faster and why? Do they converge to the same answer? How did number of states affect things? What is the difference between exploration and exploitation techniques in Q-Learning algorithm?
 
+Analysis.pdf file answers all the above questions.
+
+All the codes are in IPYNB format, so you will need Jupyter Notebook to run my codes.
+
+pip install mdptoolbox-hiive
+
+pip install pymdptoolbox
+
+pip install gym
+ 
