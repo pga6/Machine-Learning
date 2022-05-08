@@ -1,1 +1,13 @@
+The purpose of this project is to explore random search. As always, it is important to realize that understanding an algorithm or technique requires more than reading about that algorithm or even implementing it.
+Four local random search algorithms are implemented in this section, which are Randomized Hill Climbing, Simulated Annealing, Genetic Algorithm and MIMIC. Three optimization problems are used to test the four algorithms. 
+In addition to analyzing the optimization algorithms, I used the first 3 algorithms to find good weights for a neural network. I used this weights on the neural network utilized in the Supervised Learning section of this repository and both results were compared to each other.
 
+Analysis.pdf file discuss the above results in details and comparisons between the algorithms are provided in the same file.
+
+All the codes are in IPYNB format, so you will need Jupyter Notebook to run my codes.
+
+You will need to change the address for the data files directory in the code to the address where you save the data files.
+
+The 'Randomized Optimization Algorithms.ipynb' runs on the mlrose library
+
+The rest of the code files run on the mlrose_hiive library
