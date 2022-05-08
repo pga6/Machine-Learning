@@ -1,1 +1,9 @@
+In this section, six unsupervised learning algorithms are implemented and tested, which are K-means clustering, Expectation Maximization (Gaussian Mixture Models), Principal Component Analysis, Independent Component Analysis, Random Component Analysis and Linear Discriminant Analysis.
+I ran the clustering algorithms on the 2 datasets and the results are discussed. Dimensionality reduction algorithms applied on the 2 datasets and the results are discussed. I ran the clustering algorithms again but on the data after the dimensionality reduction algorithms applied to it.
+Many other experiments and analysis are implemented and discussed in this project and can be found in the Analysis.pdf file.
 
+Analysis.pdf file is a MUST read because it explains alot of information for these experiments.
+
+All the codes are in IPYNB format, so you will need Jupyter Notebook to run my codes.
+
+You will need to change the address for the data files directory in the code to the address where you save the data files.
